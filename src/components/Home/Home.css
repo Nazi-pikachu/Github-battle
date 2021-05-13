@@ -1,0 +1,21 @@
+.Home-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  font-weight: bold;
+}
+.Button {
+  width: 100px;
+  height: 30px;
+  font-size: larger;
+  color: whitesmoke;
+  background-color: black;
+  text-align: center;
+  border-radius: 5%;
+}
+.battle-column {
+  /* display: flex; */
+  align-items: center;
+}

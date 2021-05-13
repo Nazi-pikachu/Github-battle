@@ -1,0 +1,15 @@
+.nav {
+  display: flex;
+  margin-left: 10px;
+}
+.nav > li {
+  margin-right: 15px;
+  font-size: larger;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+.active {
+  font-weight: bold;
+}
